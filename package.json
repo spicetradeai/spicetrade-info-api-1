@@ -1,8 +1,8 @@
 {
-  "name": "spicetrade-info-api-56",
+  "name": "spicetrade-info-api-1",
   "version": "1.0.0",
   "description": "Serverless API implementation for Spice Trade Swap on-chain data query.",
-  "repository": "git@github.com:spicetradeai/spicetrade-info-api-56.git",
+  "repository": "git@github.com:spicetradeai/spicetrade-info-api-1.git",
   "author": "Spice Trade",
   "license": "MIT",
   "scripts": {
